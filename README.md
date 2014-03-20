@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 NSS Cohort 4 Integrated Node.js Template
 ========================================
 
@@ -19,3 +20,7 @@ NSS Cohort 4 Integrated Node.js Template
 - TravisCI
 - Coveralls
 
+=======
+node-chat
+=========
+>>>>>>> dd95312c21d83d82bac51657b4769fadb9aba638
